@@ -1,0 +1,27 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="60" cy="60" r="56" fill="url(#gradient)" stroke="#1a1a2e" stroke-width="2"/>
+  
+  <!-- AI text stylized -->
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">AI</text>
+  
+  <!-- News icon - newspaper style -->
+  <rect x="30" y="60" width="60" height="35" rx="3" fill="#ffffff" opacity="0.9"/>
+  <rect x="35" y="65" width="25" height="3" rx="1" fill="#6366f1"/>
+  <rect x="35" y="71" width="50" height="2" rx="1" fill="#94a3b8"/>
+  <rect x="35" y="76" width="45" height="2" rx="1" fill="#94a3b8"/>
+  <rect x="35" y="81" width="50" height="2" rx="1" fill="#94a3b8"/>
+  <rect x="35" y="86" width="30" height="2" rx="1" fill="#94a3b8"/>
+  
+  <!-- Sparkle/AI indicator -->
+  <circle cx="80" cy="35" r="8" fill="#fbbf24"/>
+  <path d="M80 29 L80 41 M74 35 L86 35" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+</svg>
